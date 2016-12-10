@@ -5,3 +5,5 @@ node_modules
 # elm-repl generated files
 repl-temp-*
 
+# elm build
+elm.js
