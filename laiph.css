@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Varela+Round);
+
+body {
+}
+
+#board {
+}
+
+
+.cellRow {
+    display: flex;
+}
+
+.cell {
+    width: 20px;
+    height: 20px; 
+    margin: 1px;
+}
+
+
+.live {
+    background-color: black; 
+}
+
+.dead {
+    background-color: grey;
+}
